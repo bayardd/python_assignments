@@ -1,4 +1,4 @@
-# Python file which converts binary numbers to their decimal equivelance.
+# Python file which converts decimal numbers to their binary equivelance.
 
 # Requirements:
     - Python 3.6
